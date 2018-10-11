@@ -1,0 +1,9 @@
+{
+  "NY": {
+    "name": "New York",
+    "min_lat": 40.4772,
+    "max_lat": 45.0153,
+    "min_lng": -79.7624,
+    "max_lng": -71.7517
+  }
+}
